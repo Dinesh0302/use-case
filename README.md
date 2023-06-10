@@ -9,9 +9,7 @@ The goal of this mission is to create a basic CAP application using data model, 
 
 You will extend the CAP application and the Fiori to get a basic bookshop application.
 
-Optionally, you can deploy the application to on SAP Business Technology Platform (BTP) Cloud Foundry, using SAP HANA Cloud and HTML5 Repository from SAP Build Work Zone service. Once deployed on HANA cloud, you can use the backend database for hybrid testing.
-
-[Read More..](https://github.com/dpk-bhat/test-repo/edit/main/README.md)
+Optionally, you can deploy the application to on SAP Business Technology Platform (BTP) Cloud Foundry, using SAP HANA Cloud and HTML5 Repository from SAP Build Work Zone service. Once deployed on HANA cloud, you can use the backend database for hybrid testing.[ReadMe.md](https://github.com/Dinesh0302/use-case/edit/main/README.md)
 
 
 
